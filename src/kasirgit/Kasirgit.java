@@ -76,7 +76,7 @@ switch(c){
  
 }
 System.out.println("youre total is Rp"+price);
-
+System.out.println("thanks");
 
     }
     
